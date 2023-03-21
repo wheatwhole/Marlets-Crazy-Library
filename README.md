@@ -8,7 +8,7 @@ hello and welcome to marlet's crazy library! This is a library of cool scripts a
 Since Marlet's Crazy Library is just starting out, we are in v1 with many bookmarklets! If you would like to contribute you can DM me on discord at lordwaffles#6096. Since im new to this whole github thing, it may take me some time to add you as a contributor
 + v1 - added a large amount of bookmarklets, including a special bookmarklet section only for people with permission.
 ## how do I install it?
-go to the `versions` folder and then find and download the version you would like to use. After that type the url chrome://bookmarklets in your URL bar and then click the three dots at the top, click the import bookmarks button to import the bookmarks. If there are any errors with it such as it not being organized into folders then just message below
+go to the `versions` folder and then find and download the version you would like to use. After that type the url chrome://bookmarklets in your URL bar and then click the three dots at the top, click the import bookmarks button to import the bookmarks. If there are any errors with it such as it not being organized into folders then just message below. Dont worry, soon there will be automatic updating and all bookmarklets will be added to repositiory.
 ## catagories
 ### minecraft
 a catogory with minecraft multiplayer servers and java edition! (These servers will work on any device including chromebooks). Remember to only play if your teacher allows to or if you have freetime. This is one of my favorite parts of the library
