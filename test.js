@@ -1,1 +1,1 @@
-alert("this is a test!")
+javascript:alert("this is a test!")
