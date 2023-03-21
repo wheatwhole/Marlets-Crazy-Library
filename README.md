@@ -19,10 +19,13 @@ calculator, font checker, youtube video downloader, password generator, gmail se
 ### evilscript
 just a random catagory of bookmarklets made for pranking people.
 ### credits/contributors
-Not all credits will be shown since it will take me some time to find all sources, but here are a few:
+Not all credits will be shown since it will take me some time to find all sources, but here are most of them:
 + Krazete Bookmarklets
 + http://www.javascripter.net/faq/calculat.htm
-+ BbyFoxy on Github
-+ 3kh0 on Github
-+ chengyin on Github
++ @github/BbyFoxy
++ 3kh0
++ chengyin
 + dragon731012
++ luphoria.com
++ pman5534
++ Marc8019
