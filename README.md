@@ -20,8 +20,7 @@ explore some pretty fun bookmarklets! (Be wary of bookmarklets that say stuff li
 calculator, font checker, youtube video downloader, password generator, gmail sender, and much more!
 ### evilscript
 just a random catagory of bookmarklets made for pranking people.
-### unsafe!
-these bookmarklets may be unsafe to use and not even i use them because of how they could get you in trouble (in school). For example, the `tab cloaks` folder inside the `unsafe` folder has a list of bookmarklets that change your tab to a different name, with some of these being bad ones lol. not really THAT unsafe though, since all it has is a tiny tab keeper and an extension installer.
+## credits
 Not all credits will be shown since it will take me some time to find all sources, but here are most of them:
 + Krazete Bookmarklets
 + http://www.javascripter.net/faq/calculat.htm
@@ -32,3 +31,5 @@ Not all credits will be shown since it will take me some time to find all source
 + luphoria.com
 + pman5534
 + Marc8019
+## how do I collaborate?
+In order to collaborate, all you need to do is just send an email to me (24kpunkdogs@gmail.com) with the code and nmae for your bookmarklet. The library is updated every one or two months, meaning that I will take requests 1-2 months after an update, then add the requests after those months. After I add those requests, the same process will happen again
