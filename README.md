@@ -32,4 +32,4 @@ Not all credits will be shown since it will take me some time to find all source
 In order to collaborate, all you need to do is just send an email to me (24kpunkdogs@gmail.com) with the code and nmae for your bookmarklet. The library is updated every one or two months, meaning that I will take requests 1-2 months after an update, then add the requests after those months. After I add those requests, the same process will happen again
 # contact
 24kpunkdogs@gmail.com  
-<br>lordwaffles#6096 on discord</br>
+lordwaffles#6096 on discord
