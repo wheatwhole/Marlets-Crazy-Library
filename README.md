@@ -4,9 +4,6 @@ hello and welcome to marlet's crazy library! This is a library of cool scripts a
 - the first thing you need to know is that NONE of these bookmarklets are made by me except a few. Some bookmarklets may say "made by me" but that's just the original creator of the bookmarklet saying that it was made by them
 - I will soon be adding the folders and automatic version updating so that you dont constantly need to reinstall and uninstall versions :) 
 - use with common sense if you are in school, remember to respect your teachers. (if your just looking for something fun at home or have perms in school, it's fine.)
-## changelog
-Since Marlet's Crazy Library is just starting out, we are in v1 with many bookmarklets! If you would like to contribute you can DM me on discord at lordwaffles#6096, but I prefer email since i already have enough pings (24punkdogs@gmail.com) Since im new to this whole github thing, it may take me some time to add you as a contributor
-+ v1 - added a large amount of bookmarklets, including a special bookmarklet section only for people with permission.
 ## how do I install it?
 go to the `install` folder and then find and download the version you would like to use. After that type the url chrome://bookmarklets in your URL bar and then click the three dots at the top, click the import bookmarks button to import the bookmarks. Once imported there should be a bookmarklet folder that says `imported`. Go through that folder until you find `Marlet's Crazy Library` and drag that anywhere you want in the bookmarks bar. 
 ## catagories
