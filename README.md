@@ -1,5 +1,5 @@
 # welcome
-hello and welcome to marlet's crazy library! This is a library of cool scripts and bookmarklets i found over the past months. None of these are created by me and all credit is given to the original owners. Have fun!
+hello and welcome to marlet's crazy library! This is a library of cool scripts and bookmarklets I've found on the internet over the past months. **None of these are created by me and I do NOT take credit**
 ## notes 
 - the first thing you need to know is that NONE of these bookmarklets are made by me except a few. Some bookmarklets may say "made by me" but that's just the original creator of the bookmarklet saying that it was made by them
 - I will soon be adding the folders and automatic version updating so that you dont constantly need to reinstall and uninstall versions :) 
