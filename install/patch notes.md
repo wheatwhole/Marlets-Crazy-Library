@@ -8,4 +8,4 @@
 + added new .ioexploits folder to the bookmarks
 + moved working bookmarklets out of experimental and put them in normal sections. All non working ones were deleted
 + you can now hack snake game in the ==fun== section
-**Version 1 will instantly be deleted due to unexpected bookmarks showing up with it**
++ **Version 1 will instantly be deleted due to unexpected bookmarks showing up with it**
