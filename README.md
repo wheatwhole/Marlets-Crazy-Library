@@ -1,3 +1,4 @@
+# this project has been finished. Enjoy!
 # welcome
 hello and welcome to marlet's crazy library! This is a library of cool scripts and bookmarklets I've found on the internet over the past months. **None of these are created by me and I do NOT take credit**
 ## notes 
