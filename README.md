@@ -14,7 +14,7 @@ hello and welcome to marlet's crazy library! This is a library of cool scripts a
 - There should be a folder called `Imported` when you import it. 
 - Simply find `Marlet's crazy library` from there and drag it to your bookmarks bar
 
-## catagories
+## categories
 ### minecraft
 a catogory with minecraft multiplayer servers and java edition! (These servers will work on any device including chromebooks). Remember to only play if your teacher allows to or if you have freetime. This is one of my favorite parts of the library
 ### experimental
