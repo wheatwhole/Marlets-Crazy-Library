@@ -7,9 +7,10 @@ hello and welcome to marlet's crazy library! This is a library of cool scripts a
 - use with common sense if you are in school, remember to respect your teachers. (if your just looking for something fun at home or have perms in school, it's fine.)
 ## how do I install it?
 - go to this [link](https://github.com/wheatwhole/Marlets-Crazy-Library/tree/main/install) 
-- Click the version you wanna use, then right click the raw button and hit `Save link as`.
-- Right click your bookmarks bar and hit bookmarks manager. 
-- Then click import, find the link you downloaded, and then open. 
+- Click the version you wanna use, then right click the "raw" button and hit `Save link as`.
+- Right click your bookmarks bar and hit bookmarks manager.
+- click the three dots in the right corner of your screen
+- Then click "Import Bookmarks', find the link you downloaded, and then open. 
 - There should be a folder called `Imported` when you import it. 
 - Simply find `Marlet's crazy library` from there and drag it to your bookmarks bar
 
